@@ -17,7 +17,7 @@
 - Proyectos de **automatización financiera** que optimicen procesos contables a gran escala.
 
 📫 **Cómo contactarme**:
-- **LinkedIn**: [Arley en LinkedIn](https://www.linkedin.com/in/a-nicolas-munoz-alvarez/)
+- **LinkedIn**: [Nicolas Muñoz](https://www.linkedin.com/in/a-nicolas-munoz-alvarez/)
 - **Correo**: datac.nicolasm@gmail.com
 
 ⚡ **Fun fact**:
