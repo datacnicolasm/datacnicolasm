@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Arley, @datacnicolasm
+# 👋 ¡Hola! Soy Nicolas, @datacnicolasm
 
 🎓 **Contador Público con especialización en Inteligencia Artificial y Big Data**. Fusiono mis conocimientos en finanzas con ciencia de datos para resolver problemas empresariales, mejorar la eficiencia y generar valor a través del análisis de grandes volúmenes de datos.
 
