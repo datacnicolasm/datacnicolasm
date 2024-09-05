@@ -18,7 +18,7 @@
 
 📫 **Cómo contactarme**:
 - **LinkedIn**: [Arley en LinkedIn](https://www.linkedin.com/in/a-nicolas-munoz-alvarez/)
-- **Correo**: arley.datacnicolasm@gmail.com
+- **Correo**: datac.nicolasm@gmail.com
 
 ⚡ **Fun fact**:
 - Cuando no estoy resolviendo problemas con datos o código, me encanta enseñar y compartir mi conocimiento como profesor universitario. 🎓😄
