@@ -12,10 +12,6 @@
 - **Ingeniería de Datos**: Explorando herramientas como `AWS`, `Databricks`, `Docker`, y `Kubernetes` para construir y gestionar arquitecturas de datos eficientes.
 - **Modelos de lenguaje a gran escala (LLMs)**: Experimentando con las capacidades de modelos como GPT para automatizar análisis en tiempo real.
 
-💻 **Proyectos Destacados**:
-- **Análisis del Servicio de Gas Natural en Colombia**: Exploración de datos de tarifas de gas utilizando Python y `geopandas` para visualizaciones geoespaciales. 📊🔍
-- **Automatización Financiera**: Implementación de soluciones con `Python` para automatizar tareas contables y crear sistemas de informes financieros personalizados.
-
 💞️ **Buscando colaborar en**:
 - Proyectos de **Ciencia de Datos** que apliquen análisis predictivo y machine learning para resolver problemas empresariales.
 - Proyectos de **automatización financiera** que optimicen procesos contables a gran escala.
