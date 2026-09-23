@@ -1,24 +1,21 @@
-# 👋 ¡Hola! Soy Nicolas, @datacnicolasm
+# Hi there, I'm Nicolas Muñoz Alvarez 👋
 
-🎓 **Contador Público con maestría en Inteligencia Artificial y Big Data**. Fusiono mis conocimientos en finanzas con ciencia de datos para resolver problemas empresariales, mejorar la eficiencia y generar valor a través del análisis de grandes volúmenes de datos.
+**Machine Learning Engineer & Data Scientist | Ex-Fintech & Quantitative Systems**  
+Based in Bogotá, Colombia 🇨🇴
 
-👀 **Intereses**:
-- **Ciencia de Datos**: Machine Learning, Deep Learning, Inteligencia Artificial aplicada a problemas financieros y empresariales.
-- **Finanzas**: Automatización de procesos contables y financieros, análisis de grandes volúmenes de datos para optimización y predicciones.
-- **Visualización de Datos**: Utilización de herramientas como `geopandas`, `matplotlib`, y `Power BI` para crear visualizaciones impactantes y útiles.
-- **Tecnologías de la Información**: Experiencia en el desarrollo de software para mejorar procesos en finanzas usando `Python`, `SQL`, `PHP`, entre otros.
+I design and deploy production-ready Machine Learning pipelines, low-latency microservices, and high-performance data systems. My background fuses quantitative modeling, corporate risk, and big data architectures into scalable software solutions.
 
-🌱 **Actualmente estoy aprendiendo**:
-- **Ingeniería de Datos**: Explorando herramientas como `AWS`, `Databricks`, `Docker`, y `Kubernetes` para construir y gestionar arquitecturas de datos eficientes.
-- **Modelos de lenguaje a gran escala (LLMs)**: Experimentando con las capacidades de modelos como GPT para automatizar análisis en tiempo real.
+---
 
-💞️ **Buscando colaborar en**:
-- Proyectos de **Ciencia de Datos** que apliquen análisis predictivo y machine learning para resolver problemas empresariales.
-- Proyectos de **automatización financiera** que optimicen procesos contables a gran escala.
+### 🚀 What I Do
 
-📫 **Cómo contactarme**:
+- ⚙️ **Machine Learning Engineering:** Serving inference pipelines with FastAPI, optimizing containerized services with Docker, and building automated CI/CD workflows.
+- 📊 **High-Performance Data Ingestion:** Downcasting, columnar persistence (Apache Parquet), and memory-efficient data processing with Pandas and NumPy.
+- 🛡️ **Risk & Fraud Systems:** Implementing classification models, anomaly detection, and scoring architectures on financial and transactional microdata.
+- 🎓 **Executive & Graduate Instruction:** Teaching MBA-level and undergraduate modules in financial analytics, applied machine learning, and data-driven strategy.
+
+---
+
+📫 **Connect With Me**:
 - **LinkedIn**: [Nicolas Muñoz](https://www.linkedin.com/in/a-nicolas-munoz-alvarez/)
-- **Correo**: datac.nicolasm@gmail.com
-
-⚡ **Fun fact**:
-- Cuando no estoy resolviendo problemas con datos o código, me encanta enseñar y compartir mi conocimiento como profesor universitario. 🎓😄
+- **Email**: datac.nicolasm@gmail.com
